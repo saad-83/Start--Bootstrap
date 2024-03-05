@@ -1,0 +1,191 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar-brand{
+    font-size: xx-large;
+    color: rgb(243, 117, 14);
+    font-style: italic;
+}
+
+.offcanvas-title{
+    color: rgb(243, 117, 14);
+    font-style: italic;
+}
+
+.nav-item:hover{
+    font-size: large;
+}
+
+.img{
+    background-image: url(01.jpg);
+    height: 811px;
+    width: 1583px;
+}
+
+.heading1{
+    color: white;
+    padding: 300px;
+    text-align: center;
+    font-style: italic;
+    font-size: xx-large;
+    
+}
+.heading2{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin-top: -270px;
+    font-size: 100px;
+}
+.img button{
+    padding-top: 21px;
+    padding-bottom: 24px;
+    padding-right: 70px;
+    padding-left: 66px;
+    margin-left: 650px;
+    border-radius: 10px;
+    border-color: #ffc800;
+    background-color: #ffc800;
+    color: white;
+    font-size: 30px;
+}
+
+.main h3{
+    text-align: center;
+    font-weight: 700;
+    font-size: 50px;
+}
+.main p{
+    text-align: center;
+    font-style: italic;
+}
+
+.fa-solid{
+    font-size: 28rem;
+}
+.card{
+    background-color: #fdfdfd;
+}
+.card-title{
+    text-align: center;
+    font-weight: 700;
+}
+
+.card-text{
+    text-align: center;
+}
+
+.main1{
+    height: 1300px;
+    width: 1600px;
+    background-color: #dee2e6;
+}
+
+.main1 h4{
+    text-align: center;
+    font-weight: 700;
+    font-size: 50px;
+}
+.main1 p{
+    text-align: center;
+    font-style: italic;
+}
+
+.Team h5{
+    text-align: center;
+    font-weight: 700;
+    font-size: 50px;
+}
+.Team p{
+    text-align: center;
+    font-style: italic;
+}
+.Team .card-img-top{
+    border-radius: 50% !important;
+}
+.stickers{
+    padding-left: 185px;
+}
+
+.fa-square-twitter{
+    font-size: 50px;
+}
+.fa-facebook{
+    font-size: 50px;
+}
+.fa-linkedin{
+    font-size: 50px;
+}
+
+.page{
+    background-color: #212529;
+    background-image: url(13.png);
+    height: 811px;
+    width: 1583px;
+}
+
+.page h6{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+.page p{
+    color: rgba(214, 219, 219, 0.678);
+    text-align: center;
+    font-style: italic;
+}
+
+.name{
+    padding-left: 95px;
+}
+.name input{
+    padding-right: 503px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    border-radius: 10px;
+}
+
+.Email{
+    padding-left: 95px;
+}
+.Email input{
+    padding-right: 503px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    border-radius: 10px;
+}
+
+.Phone{
+    padding-left: 95px;
+}
+.Phone input{
+    padding-right: 503px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    border-radius: 10px;
+}
+
+.Message{
+    padding-left: 95px;
+}
+.Message input{
+    padding-right: 503px;
+    padding-top: 18px;
+    padding-bottom: 145px;
+    border-radius: 10px;
+}
+
+.page button{
+    padding-right: 8px;
+    padding-left: 7px;
+    margin-left: 555px;
+    border-radius: 10px;
+    border-color: #ffc800;
+    background-color: #ffc800;
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+}
